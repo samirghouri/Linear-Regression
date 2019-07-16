@@ -11,4 +11,4 @@ Length of Membership: How many years the customer has been a member.
 Analysing the data based on the Length of Membership and Yearly Amount Spend.
 
 #If facing problem loading the ipynb file go to the link below:
-https://nbviewer.jupyter.org/github/samirghouri/Linear-Regression/blob/master/logisticR.ipynb
+https://nbviewer.jupyter.org/github/samirghouri/Linear-Regression/blob/master/linearR.ipynb
